@@ -18,3 +18,8 @@ usage : tty-clock [-iuvsScbtrahDBxn] [-C [0-7]] [-f format] [-d delay] [-a nsdel
     -B            Enable blinking colon
     -d delay      Set the delay between two redraws of the clock. Default 1s.
     -a nsdelay    Additional delay between two redraws in nanoseconds. Default 0ns.
+
+--------------------------------------------------------------------------------------------
+### CHANGES IN THIS FORK ###
+
+I'm trying to make a tty-clock that has dual clocks, but I have no idea what I am doing. Just ignore me.
